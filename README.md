@@ -15,7 +15,9 @@
 А вот [телеграм](https://t.me/rkvAlv). Можно и на почту - cawme@mail.ru
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![codewars](https://www.codewars.com/users/cawme/badges/small)](https://www.codewars.com/users/cawme) 
+
+
 
 
 
