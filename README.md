@@ -1,4 +1,21 @@
-### Привет
+### Всем привет
+Меня зовут Роман Ковалев. Я живу в Москве. Мне 35 лет. В 2008 году я закончил МИСИ/МГСУ. Более 10 лет работал в сфере проектирования сооружений гражданского и промышленного назначения. К текущему моменту я прошел несколько курсов, где изучал Python, SQL, DS, статистику, теорию вероятностей, линейную алгебру.
+Сейчас я ищу свою первую работу (или стажировку) в роли DS. Участвую в хакатонах (МКБ, Открытие...), решаю [тестовые](https://github.com/K-Roman/test_tasks), прохожу курсы (NLP, CV).
+
+## Стэк: 
+ -  Python(Pandas, Numpy, SciPy);
+ -  Visualization(Matplotlib, Seaborn);
+ -  ML(SciKit-Learn, Catboost);
+ -  DL(TensorFlow, Keras);
+ -  NLP(pymorphy2, NLTK, pymystem, Bert);
+ -  SQL, PostgreSQL;
+ -  IDE: Jupyter Notebook, PyCharm.
+
+Вот [резюме]([https://github.com/K-Roman/test_tasks/tree/main/sber](https://hh.ru/resume/7a6d5ae1ff0917a8120039ed1f6f4f70675961))
+
+
+
+
 
 
 <!--
