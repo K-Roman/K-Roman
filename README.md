@@ -17,6 +17,9 @@
 
 [![codewars](https://www.codewars.com/users/cawme/badges/small)](https://www.codewars.com/users/cawme) 
 
+  
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=cawme123&theme=dark)](https://github.com/cawme123/leetcode-stats)
+
 
 
 
