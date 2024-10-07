@@ -11,7 +11,7 @@
  -  SQL, PostgreSQL;
  -  IDE: Jupyter Notebook, PyCharm.
 
-Вот [резюме](https://hh.ru/resume/7a6d5ae1ff0917a8120039ed1f6f4f70675961](https://hh.ru/resume/0c551d93ff0dc9cdb80039ed1f4d6a7252374d).
+Вот [резюме](https://hh.ru/resume/0c551d93ff0dc9cdb80039ed1f4d6a7252374d).
 А вот [телеграм](https://t.me/rebilof). Можно и на почту - cawme@mail.ru
 
 
